@@ -5,11 +5,11 @@ I took Coderhouse's frontend career courses (web design, JavaScript, Angular).
 Now I am studying Node.Js. and performing the acceleration offered by Alkemy to simulate a real work environment.
 
 ## <code><b><u>Social Network and Contact</u></b></code>
-<code><a href="https://www.facebook.com/salaseviciusflavio/" target="_blank"><img height="20" src="logos/facebook.png" alt="Facebook"></a></code>
-<code><a href="https://www.linkedin.com/in/flavio-gast%C3%B3n-salasevicius-61232979/" target="_blank"><img height="20" src="logos/linkedin.png" alt="Linkedin"></a></code>
-<code><a href="https://www.instagram.com/flaviocjs14/" target="_blank"><img height="20" src="logos/instagram.png" alt="Instagram"></a></code>
-<code><a href="tel:+543466433400" target="_blank"><img height="20" src="logos/whatsapp.png" alt="Whatsapp"></a></code>
-<code><a href="https://www.flaviosalasevicius.com.ar" target="_blank"><img height="20" src="logos/html-5.png" alt="Web"></a></code>
+<code><a href="https://www.facebook.com/salaseviciusflavio/" target="_blank"><img height="20" src="facebook.png" alt="Facebook"></a></code>
+<code><a href="https://www.linkedin.com/in/flavio-gast%C3%B3n-salasevicius-61232979/" target="_blank"><img height="20" src="linkedin.png" alt="Linkedin"></a></code>
+<code><a href="https://www.instagram.com/flaviocjs14/" target="_blank"><img height="20" src="instagram.png" alt="Instagram"></a></code>
+<code><a href="tel:+543466433400" target="_blank"><img height="20" src="whatsapp.png" alt="Whatsapp"></a></code>
+<code><a href="https://www.flaviosalasevicius.com.ar" target="_blank"><img height="20" src="html-5.png" alt="Web"></a></code>
 
 ## <code><b><u>Languages and tools</u></b></code>
 
