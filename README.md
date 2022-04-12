@@ -21,5 +21,9 @@ Now I am studying Node.Js. and performing the acceleration offered by Alkemy to 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
+## <code><b><u>Github Stats</u></b></code>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsalasevicius&theme=radical)](https://github.com/fsalasevicius/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsalasevicius&layout=compact&theme=radical)](https://github.com/fsalasevicius/github-readme-stats)
 
